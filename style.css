@@ -12,7 +12,8 @@ html, body {
   align-content: center;
   flex-direction: column;
 }
-.navbar {
-  display: flex;
-  align-items: center;
+
+.ffs-img {
+width: 150px;
+height: 150px;
 }
